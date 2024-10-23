@@ -1025,7 +1025,7 @@ async def prikazy(ctx):
 
 
 
-bot.run('MTI2OTgyNDE1NzE3NzM1MjI4Mg.GDjgL8.8L5cB9KpiJGuAgaKiHbK_3mjC5P-H0EqihGl6g')
+bot.run('BOTTOKEN')
 
 
 # Poslední úprava 23.10.2024 21:01
